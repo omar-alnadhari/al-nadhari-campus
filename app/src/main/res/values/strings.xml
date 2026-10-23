@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Al-Nadhari Campus</string>
+    <string name="welcome_to_campus">Welcome to Al-Nadhari Campus!</string>
+    <string name="footer_academic_life">Al-Nadhari Campus - Organize your academic life</string>
+    <string name="footer_studies_smarter">Al-Nadhari Campus - Manage your studies smarter</string>
+    <string name="footer_stay_organized">Al-Nadhari Campus - Stay organized</string>
+    <string name="footer_find_assignments">Al-Nadhari Campus - Find your assignments</string>
+</resources>
